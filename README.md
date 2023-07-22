@@ -1,6 +1,6 @@
 # cyclingdeck
- This e-commerce website is develop for bicycle shop using wordpress <br> <br>
- Watch the project video 
+ This e-commerce website is developed for bicycle shop using WordPress <br> <br>
+ 
 
 <br><br>
 ![Screenshot (342)](https://user-images.githubusercontent.com/119162766/227967487-b452ccc0-15bc-4faa-9ec8-e70173fbc4c8.png)
